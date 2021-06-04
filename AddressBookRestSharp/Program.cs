@@ -10,6 +10,8 @@ namespace AddressBookRestSharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, Welcome to Address Book Using RestSharp!");
+            Console.ReadKey();
         }
     }
 }
